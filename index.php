@@ -1,8 +1,4 @@
-<html>
- <head>
-  <title>PHP Test Bryan test</title>
- </head>
- <body>
- <?php echo '<p>Hello World Version 7X php I think it works</p>'; ?> 
- </body>
-</html>
+<?php
+print " Hello from that lates change in PHP-Helloworld  php version is " . PHP_VERSION . "\n";
+print " Changes Have bben made to 8 Chan "\n" ;
+?>
